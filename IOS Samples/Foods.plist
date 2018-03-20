@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Image</key>
+		<string>sugar_cubes</string>
+		<key>Des</key>
+		<string>Se denomina azúcar, en el uso más extendido de la palabra, a la sacarosa, cuya fórmula química es C12H22O11, también llamada «azúcar común» o «azúcar de mesa».
+
+La sacarosa es un disacárido formado por una molécula de glucosa y una de fructosa, que se obtiene principalmente de la caña de azúcar o de la remolacha. El 27 % de la producción total mundial se realiza a partir de la remolacha y el 73 % a partir de la caña de azúcar.1​</string>
+		<key>Name</key>
+		<string>Sugar cubes</string>
+	</dict>
+	<dict>
+		<key>Image</key>
+		<string>strawberry_ice_cream</string>
+		<key>Des</key>
+		<string>Ice Cream gives me all the summer feels, and strawberry ice cream, in particular, reminds me of summer days spent at our family cabin in the mountains (their strawberry ice cream is superior to all other ice creams).
+
+This homemade strawberry ice cream is about as good as it gets (unless you wanted to throw some Neapolitan Sheet Cake or Strawberries and Cream Cupcakes into the mix—cake is always a good idea). Plus, it’s totally the Molly Ringwald of the ice cream world since it’s so pretty in pink!</string>
+		<key>Name</key>
+		<string>Strawberry ice cream</string>
+	</dict>
+	<dict>
+		<key>Image</key>
+		<string>honey</string>
+		<key>Des</key>
+		<string>Honey is a sweet, viscous food substance produced by bees and some related insects.[1] Bees produce honey from the sugary secretions of plants (floral nectar) or other insects (aphid honeydew) through regurgitation, enzymatic activity, and water evaporation. Honey is stored in wax structures called honeycombs.[1][2] The variety of honey produced by honey bees (the genus Apis) is the best-known, due to its worldwide commercial production and human consumption.[3] Honey is collected from wild bee colonies, or from hives of domesticated bees, a practice known as beekeeping.</string>
+		<key>Name</key>
+		<string>Honey</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cofee</string>
+		<key>Des</key>
+		<string>Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.[2] The plant was exported from Africa to countries around the world. Coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa. The two most commonly grown are the highly regarded arabica, and the less sophisticated but stronger and hardier robusta. Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as beans) are roasted to varying degrees, depending on the desired flavor. Roasted beans are ground and brewed with near-boiling water to produce coffee as a beverage.</string>
+		<key>Image</key>
+		<string>coffee_pot</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Espresso</string>
+		<key>Des</key>
+		<string>Espresso (/ɛˈsprɛsoʊ/, Italian: [esˈprɛsso], lit. &quot;expressed&quot; from esprimere, &quot;to express&quot; or &quot;to force out&quot;) is coffee brewed by expressing or forcing out a small amount of nearly boiling water under pressure through finely ground coffee beans. Espresso is generally thicker than coffee brewed by other methods, has a higher concentration of suspended and dissolved solids, and has crema on top (a foam with a creamy consistency).[1] As a result of the pressurized brewing process, the flavors and chemicals in a typical cup of espresso are very concentrated. Espresso is also the base for other drinks such as a caffè latte, cappuccino, caffè macchiato, caffè mocha, flat white, or caffè Americano.</string>
+		<key>Image</key>
+		<string>espresso</string>
+	</dict>
+	<dict>
+		<key>Image</key>
+		<string>french_fries</string>
+		<key>Des</key>
+		<string>French fries (North American English), chips (British English),[1] finger chips (Indian English),[2] or French-fried potatoes are batonnet or allumette-cut deep-fried potatoes. In the United States and most of Canada, the term fries refers to all dishes of fried elongated pieces of potatoes, while in the United Kingdom, Australia, South Africa (rarely), Ireland and New Zealand, thinly cut fried potatoes are sometimes called shoestring fries or skinny fries to distinguish them from the thicker-cut chips.
+
+French fries (North American English), chips (British English),[1] finger chips (Indian English),[2] or French-fried potatoes are batonnet or allumette-cut deep-fried potatoes. In the United States and most of Canada, the term fries refers to all dishes of fried elongated pieces of potatoes, while in the United Kingdom, Australia, South Africa (rarely), Ireland and New Zealand, thinly cut fried potatoes are sometimes called shoestring fries or skinny fries to distinguish them from the thicker-cut chips.
+
+French fries (North American English), chips (British English),[1] finger chips (Indian English),[2] or French-fried potatoes are batonnet or allumette-cut deep-fried potatoes. In the United States and most of Canada, the term fries refers to all dishes of fried elongated pieces of potatoes, while in the United Kingdom, Australia, South Africa (rarely), Ireland and New Zealand, thinly cut fried potatoes are sometimes called shoestring fries or skinny fries to distinguish them from the thicker-cut chips.
+
+French fries (North American English), chips (British English),[1] finger chips (Indian English),[2] or French-fried potatoes are batonnet or allumette-cut deep-fried potatoes. In the United States and most of Canada, the term fries refers to all dishes of fried elongated pieces of potatoes, while in the United Kingdom, Australia, South Africa (rarely), Ireland and New Zealand, thinly cut fried potatoes are sometimes called shoestring fries or skinny fries to distinguish them from the thicker-cut chips.
+
+</string>
+		<key>Name</key>
+		<string>French fries</string>
+	</dict>
+</array>
+</plist>
