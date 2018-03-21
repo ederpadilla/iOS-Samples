@@ -64,6 +64,26 @@ class ViewController: UIViewController ,UICollectionViewDelegate, UICollectionVi
     }
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         print("😇😇😇😇😇Select \([indexPath.row])")
+        performSegues(pos: indexPath.row)
+        
+    }
+    func performSegues(pos : Int)  {
+        switch pos {
+        case 0: performSegue(withIdentifier: "getAge", sender: nil)
+        case 1: performSegue(withIdentifier: "calculator", sender: nil)
+        case 2: performSegue(withIdentifier: "chatApp", sender: nil)
+        case 3: performSegue(withIdentifier: "coreData", sender: nil)
+        case 4: performSegue(withIdentifier: "machinelearning", sender: nil)
+        case 5: performSegue(withIdentifier: "menu", sender: nil)
+        case 6: performSegue(withIdentifier: "pokemon", sender: nil)
+        case 7: performSegue(withIdentifier: "showStore", sender: nil)
+        case 8: performSegue(withIdentifier: "sunrise", sender: nil)
+        case 9: performSegue(withIdentifier: "tictactoe", sender: nil)
+        case 10: performSegue(withIdentifier: "twitter", sender: nil)
+        case 11: performSegue(withIdentifier: "zoo", sender: nil)
+        default:
+            0
+        }
     }
     
 }
